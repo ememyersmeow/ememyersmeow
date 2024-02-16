@@ -12,6 +12,6 @@ The best streaming service for movies and TV series
 - I have [**alp**](https://t.me/ememyersSss) in telegram where you can find more info about me and my projects
 
 ## **Languages**
-![C#](https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=purple&color=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
