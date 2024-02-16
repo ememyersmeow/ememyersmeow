@@ -1,4 +1,4 @@
-<img src="" alt="This is my wife">
+<img src="https://wallpapercosmos.com/w/full/c/8/7/116411-3840x2160-desktop-4k-netflix-wallpaper-photo.jpg" alt="Netflix">
 <h1 align="center">Hi there, I'm <a href="https://github.com/ememyersmeow?tab=repositories" target="_blank">Myers</a> 
-<img src="https://64.media.tumblr.com/a57d5f3fd77a7707fe7f4bbbf95b1eac/2706111245716a48-a7/s540x810/c1878b991786c990c927b585b1073c25d8841da7.gif" height="32"/></h1>
+<img src="https://i.pinimg.com/564x/3e/3f/73/3e3f73403215211f946ff6f75f36e0fd.jpg" height="32"/></h1>
 
