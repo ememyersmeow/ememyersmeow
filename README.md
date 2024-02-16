@@ -1,5 +1,3 @@
-<img src="https://wallpaperbat.com/img/390354-netflix-wallpaper-top-free-netflix-background.jpg" alt="Netflix">
-<h1 align="center">Hi there, I'm <a href="https://github.com/ememyersmeow?tab=repositories" target="_blank">Myers</a> 
-<img src="https://i.pinimg.com/564x/3e/3f/73/3e3f73403215211f946ff6f75f36e0fd.jpg" height="32"/></h1>
+<img src="https://t3.ftcdn.net/jpg/04/81/76/22/360_F_481762281_Xcvl3QsGh1pBMvQuyKIoIqq8aYksXEwX.jpg" alt="Netflix">
 
 
