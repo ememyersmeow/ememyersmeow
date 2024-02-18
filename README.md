@@ -2,12 +2,12 @@
 ###### The best streaming service for movies and TV series
 
 # **About me**
-- I'm Myers - **Python/C#** Software Engineer
+- I'm Myers - **Python/C#** Software Engineer.
 - I've been programming since I was 14 and I don't want to stop.
-- I dream to become a part of **Netflix** team
-- I develop software and games
-- I like solving problems at LeetCode
-- I have [**alp**](https://t.me/ememyersSss) in telegram where you can find more info about me and my projects
+- I dream to become a part of **Netflix** team.
+- I develop games on Unity Engine and software for my own and public use.
+- I like solving problems at LeetCode.
+- I have [**alp**](https://t.me/ememyersSss) in telegram where you can find more info about me and my projects.
 
 ## **Languages**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
