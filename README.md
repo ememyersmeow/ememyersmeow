@@ -3,7 +3,6 @@
 
 # **About me**
 - I'm Myers - **Python/C#** Software Engineer.
-- I've been programming since I was 14.
 - I dream to become a part of **Netflix** team.
 - I develop games on Unity Engine and software for my own and public use.
 - I like solving problems at LeetCode.
