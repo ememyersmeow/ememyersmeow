@@ -2,7 +2,7 @@
 ###### The best streaming service for movies and TV series
 
 # **About me**
-- I'm Myers - **Python/C#** Software Engineer.
+- I'm Myers - **Python/C#** developer.
 - I dream to become a part of **Netflix** team.
 - I develop games on Unity Engine and software for my own and public use.
 - At the moment I'm creating a game called [**CapsuleShooter**](https://github.com/ememyersmeow/CapsuleShooter)
