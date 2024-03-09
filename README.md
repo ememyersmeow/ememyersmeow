@@ -5,7 +5,7 @@
 - I'm Myers - **Python/C#** developer.
 - I dream to become a part of **Netflix** team.
 - I develop games on Unity Engine and software for my own and public use.
-- I like solving problems at LeetCode (only Python).
+- I like solving [**problems at LeetCode**](https://github.com/ememyersmeow/LeetCode-Problems) (only Python).
 - I have [**alp**](https://t.me/ememyersSss) in telegram where you can find more info about me and my projects.
 
 ## **Languages**
