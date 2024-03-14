@@ -7,7 +7,7 @@
 - I develop games on Unity Engine and software for my own and public use.
 - I like solving [**problems at LeetCode**](https://github.com/ememyersmeow/LeetCode-Problems) (only Python).
 - I have [**alp**](https://t.me/ememyersSss) in telegram where you can find more info about me and my projects.
-- I'm currently learning C# in depth. You can find all my codes [**here**](https://github.com/ememyersmeow/CSharp-Learning)
+- I'm currently learning C# in depth. You can find all my codes [**here**](https://github.com/ememyersmeow/CSharp-Learning).
 
 ## **Languages**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
